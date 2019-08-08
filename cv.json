@@ -1,24 +1,24 @@
 {
-    "name":"",
-    "cvTitle":"",
-    "cvDescription":"",
+    "name":"Annette Michelfelder",
+    "cvTitle":"hola",
+    "cvDescription":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga repellat a non ad sapiente ratione nemo commodi ipsa autem debitis odio, hic illum? Vel dolore qui soluta quos non velit.",
     "social":[
-        {"name":"", "link":""}
+        {"name":"twitter", "link":"https://twitter.com/amichelfelder"}
     ],
     "education":[
-        {"title":"", "institution":"", "endYear":"", "description":""},
-        {"title":"", "institution":"", "endYear":"", "description":""}
+        {"title":"dev", "institution":"ada", "endYear":"2019", "description":"aprendi codigo"},
+        {"title":"comida", "institution":"iag", "endYear":"2015", "description":"prepare comida"}
     ],
     "skills":[
-        {"title":"", "level":""},
-        {"title":"", "level":""}
+        {"title":"nada", "level":"experta"},
+        {"title":"dormir", "level":"experta"}
     ],
     "blog":[
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""},
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""}
+        {"title":"lalla", "sutitle":"lelele", "excerpt":"lilili", "text":"lololo", "images":"lululu"},
+        {"title":"lalla", "sutitle":"lelele", "excerpt":"lilili", "text":"lololo", "images":"lululu"}
     ],
     "contact":{
-        "phone":"",
-        "email":""
+        "phone":"1131198936",
+        "email":"elizabeth.michelfelder@gmail.com"
     }
 }
